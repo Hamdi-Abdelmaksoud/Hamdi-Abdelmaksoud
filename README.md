@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamdi Abdelmaksoud
 - 🌱 I’m currently learning PHP(Symfony) JS(React) HTML CSS(Bootstrap)
 - 💞️ I’m looking for an opportubity to develop my skills in web development.
-- 📫 E-mail : hamwi.wdev@gmail.com linkedin : www.linkedin.com/in/hamdi-dev
+- 📫 E-mail : hamdi.wdev@gmail.com linkedin : www.linkedin.com/in/hamdi-dev
 
 
 <!---
